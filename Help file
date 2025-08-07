@@ -1,4 +1,4 @@
-# Drowsiness Detection System
+# Help file
 
 ## Introduction
 
@@ -45,4 +45,5 @@ Eye Closure Detection: Checks the Eye Aspect Ratio (EAR) to detect eye closure a
 Alerts: Plays appropriate alerts based on the detected conditions (yawning, drowsiness).
 Termination
 The script runs indefinitely until the 'q' key is pressed to quit.
+
 Releases the webcam and destroys all OpenCV windows on exit.
